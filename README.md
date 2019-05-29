@@ -1,30 +1,25 @@
-# This is a large heading
+# Damir Paripovic
 
-## This is a smaller heading
+### Geogpraphy
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Currently living in Vancouver BC.
 
-- This is
-- an unordered
-- list
+### Movies
 
-1. This is
-2. an ordered
-3. list
+These are my favourite movies:
 
-Here is `some code` in the middle of a sentence.
+- Terminator 2
+- The matrix
+- The godfather
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+These are my favourite foods:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Cevapi
+2. Pizza
+3. Ramen
 
-nano README.md
+#### Contact
+
+Best way to reach me is by email at paripovicdamir@gmail.com
